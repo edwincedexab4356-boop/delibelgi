@@ -1,0 +1,6 @@
+{
+  "name": "delicias belgis",
+  "description": "Heladería, dulcería y repostería artesanal en Ciudad de Colón. Helados, postres, cakes personalizados y pedidos directos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
